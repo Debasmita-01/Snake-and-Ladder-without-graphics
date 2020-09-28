@@ -1,4 +1,4 @@
-# Snake-and-Ladder-without-graphics
+# Snake-and-Ladder-Game-without-graphics
 A simple snake and ladder game for maximum 4 players.
 
 Note the following points:
